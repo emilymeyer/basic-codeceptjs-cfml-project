@@ -1,0 +1,9 @@
+{
+    "profile":"development",
+    "web":{
+        "webroot":"app/",
+        "http":{
+            "port":"8080"
+        }
+    }
+}
